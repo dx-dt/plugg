@@ -2,8 +2,8 @@
 Vi har följande ekvationssystem bestående av ekvationerna A och B:
 
 $$\begin{cases}
-    162x + 108y = 24 & \textcircled{\raisebox{-1.1pt}{A}}\\
-    54x - 162y = -36 & \textcircled{\raisebox{-1.1pt}{B}}\\
+    162x + 108y = 24 &&&& (A)\\
+    54x - 162y = -36 &&&& (B)\\
 \end{cases}$$
 
 ## 1. Separera ut en variabel i en av ekvationerna och förenkla
