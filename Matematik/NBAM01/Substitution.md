@@ -80,7 +80,7 @@ $$ y = \frac{2 \cdot 3}{3^2} = \frac{2}{9}  \tag{2.j}$$
 
 ## 3. Subsitutera in uttrycket för y i den första ekvationen och förenkla
 
-Eftersom uttrycket vi kom fram till i steg 1.9 är logiskt ekvivalent så kan vi använda det istället för ekvation A:
+Eftersom uttrycket vi kom fram till i steg 1.9 är logiskt ekvivalent så kan vi använda det istället för ekvationen A:
 
 $$x = 3y-\frac{2}{3} \tag{3.a}$$
 
