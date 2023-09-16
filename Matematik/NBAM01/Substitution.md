@@ -46,7 +46,7 @@ Vi fortsätter med att multiplicera in $162$ i parentesen:
 
 $$162 \cdot 3y-\frac{162 \cdot 2}{3} + 108y = 24 \tag{2.b}$$
 
-Därefter flyttar subtraherar vi den andra termen i vänsterledet från båda led för att få y-termerna ensamma:
+Därefter subtraherar vi den andra termen i vänsterledet från båda led för att få y-termerna ensamma:
 
 $$162 \cdot 3y + 108y = 24 + \frac{162 \cdot 2}{3} \tag{2.c}$$
 
